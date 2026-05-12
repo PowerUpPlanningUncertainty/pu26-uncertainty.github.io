@@ -1,0 +1,21 @@
+title: "Energy System Planning Under Uncertainty @ Power Up 2026"
+description: "Workshop website for Power Up 2026"
+url: "https://powerupplanninguncertainty.github.io"
+baseurl: ""
+repository: "PowerUpPlanningUncertainty/pu26-uncertainty.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+minimal_mistakes_skin: "air"
+
+plugins:
+  - jekyll-include-cache
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
