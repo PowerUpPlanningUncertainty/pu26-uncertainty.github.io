@@ -4,6 +4,8 @@ url: "https://pu26-uncertainty.github.io"
 baseurl: ""
 repository: "pu26-uncertainty/pu26-uncertainty.github.io"
 
+favicon: "/favicon.ico"
+
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "air"
 
