@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: false
-title: "Energy Infrastructure Planning under Uncertainty"
+title: "Planning Under Uncertainty @ Power Up 2026"
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.2"
