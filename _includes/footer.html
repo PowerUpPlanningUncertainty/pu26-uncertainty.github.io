@@ -1,0 +1,14 @@
+{% assign locale = include.locale | default: site.locale %}
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    <li>
+      <a href="https://power-up.us/" rel="noopener noreferrer">
+        <img src="https://power-up.us/favicon.ico" alt="Power Up" style="height:1em; width:1em; vertical-align:middle; margin-right:0.3em;">
+        Power Up 2026
+      </a>
+    </li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{{ site_time }} <a href="{{ site.url }}">{{ site.title | escape_once | strip }}</a>. {{ site.data.ui-text[locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
