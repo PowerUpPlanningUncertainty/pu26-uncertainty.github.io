@@ -3,9 +3,9 @@ main:
     url: /overview/
   - title: "Agenda"
     url: /agenda/
-  - title: "Speaker bios"
+  - title: "Speaker Bios"
     url: /speaker-bios/
-  - title: "Organizer bios"
+  - title: "Organizer Bios"
     url: /organizer-bios/
   - title: "Announcements"
     url: /announcements/

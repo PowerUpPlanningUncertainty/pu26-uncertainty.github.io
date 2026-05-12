@@ -1,8 +1,52 @@
 ---
-title: "Organizer bios"
+title: "Organizer Bios"
 permalink: /organizer-bios/
 ---
 
-Organizer biographies will be posted on this page.
+## Organizers
 
-Add organizer names, affiliations, and short bios here.
+### Ana K. Rivera *(MIT)*
+
+Bio coming soon.
+
+---
+
+### Lara Booth *(MIT)*
+
+Bio coming soon.
+
+---
+
+### Gabriel Mantegna *(Princeton)*
+
+Bio coming soon.
+
+---
+
+### Rahman Khorramfar *(MIT)*
+
+Bio coming soon.
+
+---
+
+### Aron Brenner *(MIT)*
+
+Bio coming soon.
+
+---
+
+### Ruaridh Macdonald *(MIT)*
+
+Bio coming soon.
+
+---
+
+### Saurabh Amin *(MIT)*
+
+Bio coming soon.
+
+---
+
+### Priya Donti *(MIT)*
+
+Bio coming soon.

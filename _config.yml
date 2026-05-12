@@ -19,3 +19,17 @@ defaults:
       type: pages
     values:
       layout: single
+
+navigation:
+  - title: "Overview"
+    url: /overview/
+  - title: "Agenda"
+    url: /agenda/
+  - title: "Speaker Bios"
+    url: /speaker-bios/
+  - title: "Organizer Bios"
+    url: /organizer-bios/
+  - title: "Announcements"
+    url: /announcements/
+  - title: "FAQs"
+    url: /faqs/
