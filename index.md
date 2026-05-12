@@ -3,8 +3,8 @@ layout: home
 author_profile: false
 title: "Energy Infrastructure Planning Under Uncertainty"
 header:
-  overlay_color: "#5e616c"
-  overlay_filter: "0.2"
+  overlay_color: "#d09de8"
+  overlay_filter: "0.8"
   caption: "Power Up 2026 Workshop"
 excerpt: "A full-day workshop at Power Up 2026 bringing together researchers and practitioners to discuss uncertainty in energy infrastructure planning."
 ---
