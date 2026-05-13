@@ -1,5 +1,5 @@
 ---
-title: "Speaker Bios"
+title: "Speakers"
 permalink: /speaker-bios/
 ---
 
