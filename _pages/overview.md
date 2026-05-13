@@ -8,9 +8,9 @@ Energy infrastructure planning models play a central role in determining the opt
 This workshop is inspired by our recent survey: [Optimization Under Uncertainty for Energy Infrastructure Planning: A Synthesis of Methods, Tools, and Open Challenges](https://arxiv.org/abs/2604.10795).
 
 
-<table>
+<table style="width:auto; margin: 0 auto;">
   <thead>
-    <tr><th colspan="2" style="text-align:center; font-size:1.1em;">Workshop Details</th></tr>
+    <tr><th colspan="2" style="text-align:center; font-size:1.4em;">Workshop Details</th></tr>
   </thead>
   <tbody>
     <tr><td><strong>Type</strong></td><td>Full-day workshop</td></tr>
