@@ -5,7 +5,7 @@ main:
     url: /agenda/
   - title: "Speaker Bios"
     url: /speaker-bios/
-  - title: "Organizer Bios"
+  - title: "Organizers"
     url: /organizer-bios/
   - title: "Announcements"
     url: /announcements/

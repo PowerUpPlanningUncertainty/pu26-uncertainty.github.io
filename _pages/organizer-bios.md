@@ -1,52 +1,50 @@
 ---
-title: "Organizer Bios"
+title: "Organizers"
 permalink: /organizer-bios/
 ---
 
-## Organizers
-
 ### Ana K. Rivera *(MIT)*
 
-Bio coming soon.
+PhD Student working on machine learning to accelerate power system optimization in planning and operation.
 
 ---
 
 ### Lara Booth *(MIT)*
 
-Bio coming soon.
+PhD Student working on improved network realism and tractability in capacity and transmission expansion models.
 
 ---
 
 ### Gabriel Mantegna *(Princeton)*
 
-Bio coming soon.
+PhD Candidate studying methods for improving representations of uncertainty in capacity expansion modeling.
 
 ---
 
 ### Rahman Khorramfar *(MIT)*
 
-Bio coming soon.
+Senior Postdoctoral Associate at MIT Energy Initiative working on resilient planning and optimization of energy systems to identify transition pathways and provide policy-relevant insights.
 
 ---
 
 ### Aron Brenner *(MIT)*
 
-Bio coming soon.
+PhD candidate developing generative methods for stochastic optimization with applications in power system planning.
 
 ---
 
 ### Ruaridh Macdonald *(MIT)*
 
-Bio coming soon.
+Research scientist at the MIT Energy Initiative working on planning optimization of multi-sectoral energy systems.
 
 ---
 
 ### Saurabh Amin *(MIT)*
 
-Bio coming soon.
+Professor working on optimization, control, and game-theoretic methods for sustainable infrastructure, including energy systems.
 
 ---
 
 ### Priya Donti *(MIT)*
 
-Bio coming soon.
+Assistant Professor working on physics-informed machine learning for power grid optimization, control, and planning.

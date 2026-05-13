@@ -16,6 +16,6 @@ Use the navigation menu to access:
 - [Overview](/overview/)
 - [Agenda](/agenda/)
 - [Speaker Bios](/speaker-bios/)
-- [Organizer Bios](/organizer-bios/)
+- [Organizers](/organizer-bios/)
 - [Announcements](/announcements/)
 - [FAQs](/faqs/)
