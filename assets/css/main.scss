@@ -48,6 +48,12 @@ a[href^="http"]:visited, a[href^="https"]:visited {
   color: white !important;
 }
 
+table {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: auto !important;
+}
+
 thead {
   background: linear-gradient(to right, #a699cc, #f0a090) !important;
   color: white;

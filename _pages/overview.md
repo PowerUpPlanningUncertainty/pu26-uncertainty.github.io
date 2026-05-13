@@ -16,6 +16,5 @@ This workshop is inspired by our recent survey: [Optimization Under Uncertainty 
     <tr><td><strong>Type</strong></td><td>Full-day workshop</td></tr>
     <tr><td><strong>Target Audience</strong></td><td>Researchers, students, industry</td></tr>
     <tr><td><strong>Estimated Attendance</strong></td><td>50–100</td></tr>
-    <tr><td><strong>Conference</strong></td><td>PowerUp 2026</td></tr>
   </tbody>
 </table>
