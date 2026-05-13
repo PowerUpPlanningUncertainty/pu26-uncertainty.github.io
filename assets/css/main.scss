@@ -7,6 +7,10 @@ $primary-color: #a699cc !default;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+.site-logo img {
+  max-height: 3.5rem;
+}
+
 .page__hero-caption {
   display: none;
 }
@@ -15,10 +19,15 @@ $primary-color: #a699cc !default;
   display: flex;
   flex-direction: column;
   line-height: 1.2;
+  background: linear-gradient(to right, #a699cc, #f0a090);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 .site-subtitle {
   display: block;
-  font-size: 0.65em;
-  opacity: 0.85;
+  font-size: 0.85em;
+  background: none;
+  -webkit-text-fill-color: currentColor;
 }
