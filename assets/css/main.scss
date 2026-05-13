@@ -63,6 +63,17 @@ thead th {
   color: white;
 }
 
+.page__hero .btn {
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.5);
+  color: white !important;
+  font-size: 0.85em;
+  padding: 0.4em 0.9em;
+  border-radius: 20px;
+  backdrop-filter: blur(4px);
+  pointer-events: none;
+}
+
 .site-subtitle {
   display: block;
   font-size: 0.85em;
