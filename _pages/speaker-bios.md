@@ -40,9 +40,17 @@ permalink: /speaker-bios/
 }
 </style>
 
-Thank you to our wonderful speakers! *Listed alphabetically by last name.*
+Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:italic; color:#888;">Listed alphabetically.</span>
 
 ## <span class="gradient-heading">Keynote Speakers</span>
+
+<div class="speaker">
+  <img src="/assets/images/speakers/bethany.jpeg" alt="Bethany Frew"/>
+  <div class="speaker-info">
+    <h3><a href="https://research-hub.nlr.gov/en/persons/bethany-frew/" target="_blank">Bethany Frew</a> <em>(National Laboratory of the Rockies)</em></h3>
+    <p>Bethany Frew is the Group Manager of the Capacity Expansion & Electricity Markets Group in the Grid Planning and Analysis Center at NLR, where she oversees a team of power system modelers focused on capacity expansion, resource adequacy, and wholesale electricity market design.</p>
+  </div>
+</div>
 
 <div class="speaker">
   <img src="/assets/images/speakers/jesse.jpg" alt="Jesse Jenkins"/>
@@ -52,13 +60,6 @@ Thank you to our wonderful speakers! *Listed alphabetically by last name.*
   </div>
 </div>
 
-<div class="speaker">
-  <img src="/assets/images/speakers/bethany.jpeg" alt="Bethany Frew"/>
-  <div class="speaker-info">
-    <h3><a href="https://research-hub.nlr.gov/en/persons/bethany-frew/" target="_blank">Bethany Frew</a> <em>(National Laboratory of the Rockies)</em></h3>
-    <p>Bethany Frew is the Group Manager of the Capacity Expansion & Electricity Markets Group in the Grid Planning and Analysis Center at NLR, where she oversees a team of power system modelers focused on capacity expansion, resource adequacy, and wholesale electricity market design.</p>
-  </div>
-</div>
 
 ## <span class="gradient-heading">Panel 1: Industry Perspectives</span>
 
