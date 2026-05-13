@@ -26,7 +26,7 @@ $primary-color: #a699cc !default;
 }
 
 .masthead__inner-wrap {
-  align-items: center;
+  align-items: flex-end;
 }
 
 .page__hero-caption {
@@ -126,8 +126,16 @@ thead th {
   display: none;
 }
 
+.gradient-heading {
+  display: inline-block;
+  background: linear-gradient(to right, #a699cc, #f0a090);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
 .greedy-nav .visible-links a {
-  padding: 0.5rem 0.6rem;
+  padding: 0.5rem 0.4rem;
   font-size: 0.85em;
 }
 

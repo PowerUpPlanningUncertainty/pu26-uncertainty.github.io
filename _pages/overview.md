@@ -63,3 +63,10 @@ Energy infrastructure planning models play a central role in determining the opt
   <a class="paper-link" href="https://arxiv.org/abs/2604.10795" target="_blank">Read paper →</a>
 </div>
 
+## <span class="gradient-heading">Goals</span>
+
+- Examine where uncertainty representations can make a real difference in energy infrastructure planning practice.
+- Identify methodological, computational, and practical gaps in planning under uncertainty.
+- Foster cross-sector connections between academia, industry, and policy.
+- Create an inclusive space for PhD students and early-career researchers to engage with leading practitioners and contribute to the conversation.
+
