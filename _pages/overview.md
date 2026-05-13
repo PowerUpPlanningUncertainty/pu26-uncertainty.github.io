@@ -8,13 +8,14 @@ permalink: /overview/
   display: flex;
   gap: 2rem;
   margin: 1.25rem 0 1.5rem;
-  font-size: 1.05em;
+  font-size: 0.85em;
   color: #444;
 }
 .event-meta span {
   display: flex;
   align-items: center;
   gap: 0.4rem;
+  white-space: nowrap;
 }
 .paper-callout {
   border-left: 4px solid #a699cc;
@@ -54,7 +55,7 @@ permalink: /overview/
 Energy infrastructure planning models play a central role in determining the optimal size, location, and timing of generation and transmission assets under conditions of deep uncertainty. The push for decarbonization, through mass adoption of variable renewables, electrification, and evolving demand profiles, has fundamentally shifted this uncertainty landscape, raising the question of whether richer representations of uncertainty are needed in modern planning. This workshop brings together researchers and practitioners to examine that question, exploring the role that optimization under uncertainty paradigms, including stochastic programming, robust optimization, and distributionally robust optimization, can and should play in real-world capacity expansion modeling.
 
 <div class="paper-callout">
-  <div class="paper-label">Inspired by our recent survey</div>
+  <div class="paper-label">Our recent survey</div>
   <div class="paper-title">Optimization Under Uncertainty for Energy Infrastructure Planning: A Synthesis of Methods, Tools, and Open Challenges <span style="font-style:normal; font-size:0.85em; color:#666;">(Khorramfar et al., 2026)</span></div>
   <a class="paper-link" href="https://arxiv.org/abs/2604.10795" target="_blank">Read paper →</a>
 </div>

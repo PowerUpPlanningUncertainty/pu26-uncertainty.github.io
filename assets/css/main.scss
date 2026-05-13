@@ -71,11 +71,14 @@ thead th {
   background: rgba(255,255,255,0.15);
   border: 1px solid rgba(255,255,255,0.5);
   color: white !important;
-  font-size: 0.85em;
-  padding: 0.4em 0.9em;
+  font-size: 0.75em;
+  padding: 0.3em 0.75em;
   border-radius: 20px;
   backdrop-filter: blur(4px);
-  pointer-events: none;
+}
+
+.page__hero .btn:visited {
+  color: white !important;
 }
 
 .site-subtitle {
