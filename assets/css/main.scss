@@ -8,8 +8,13 @@ $primary-color: #a699cc !default;
 @import "minimal-mistakes";
 
 .site-logo img {
-  max-height: 12rem;
+  max-height: none !important;
+  height: 80px !important;
   width: auto;
+}
+
+.masthead__inner-wrap {
+  align-items: center;
 }
 
 .page__hero-caption {
