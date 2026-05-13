@@ -22,6 +22,15 @@ permalink: /organizer-bios/
   margin-top: 0;
   margin-bottom: 0.25rem;
 }
+.organizer-info h3 a {
+  color: #a699cc;
+}
+.organizer-info h3 em {
+  font-style: normal;
+  color: inherit;
+  font-weight: normal;
+  font-size: 0.9em;
+}
 .organizer-email {
   font-family: monospace;
   font-size: 0.7em;
