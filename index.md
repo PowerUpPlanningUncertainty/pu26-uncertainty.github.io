@@ -6,10 +6,10 @@ header:
   overlay_image: /assets/images/flatirons-banner.jpg
   overlay_color: "#a699cc"
   overlay_filter: 0.35
-excerpt: "A full-day workshop at Power Up 2026 bringing together researchers and practitioners to discuss uncertainty in energy infrastructure planning."
+excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and practitioners to discuss uncertainty in energy infrastructure planning."
 ---
 
-Welcome to the workshop website for **Planning under Uncertainty @ Power Up 2026**.
+Welcome to the workshop website for **Energy Infrastructure Planning under Uncertainty @ PowerUp 2026**.
 
 Use the navigation menu to access:
 

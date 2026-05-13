@@ -12,4 +12,4 @@ Capacity expansion models (CEMs) play a central role in energy infrastructure pl
 | **Type** | Full-day workshop |
 | **Target Audience** | Researchers, students, industry |
 | **Estimated Attendance** | 50–100 |
-| **Conference** | Power Up 2026 |
+| **Conference** | PowerUp 2026 |
