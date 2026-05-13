@@ -58,10 +58,10 @@ permalink: /speaker-bios/
   </div>
 </div>
 
-## <span class="gradient-heading">Panel 1: Industry Perspectives on Uncertainty in Capacity Expansion</span>
+## <span class="gradient-heading">Panel 1: Industry Perspectives</span>
 
 Panelists coming soon.
 
-## <span class="gradient-heading">Panel 2: Methodological Challenges in Capacity Expansion</span>
+## <span class="gradient-heading">Panel 2: Methodological Challenges</span>
 
 Panelists coming soon.
