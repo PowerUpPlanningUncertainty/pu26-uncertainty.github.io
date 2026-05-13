@@ -60,15 +60,3 @@ Energy infrastructure planning models play a central role in determining the opt
   <a class="paper-link" href="https://arxiv.org/abs/2604.10795" target="_blank">Read paper →</a>
 </div>
 
-<div class="details-wrapper">
-<table>
-  <thead>
-    <tr><th colspan="2" style="text-align:center; font-size:1.4em;">Workshop Details</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Type</strong></td><td>Full-day workshop</td></tr>
-    <tr><td><strong>Target Audience</strong></td><td>Researchers, students, industry</td></tr>
-    <tr><td><strong>Estimated Attendance</strong></td><td>50–100</td></tr>
-  </tbody>
-</table>
-</div>
