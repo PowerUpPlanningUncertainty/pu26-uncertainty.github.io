@@ -1,5 +1,5 @@
 ---
-title: "Energy Infrastructure Planning Under Uncertainty"
+title: "Overview"
 permalink: /overview/
 ---
 
