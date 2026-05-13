@@ -9,7 +9,7 @@ $primary-color: #a699cc !default;
 
 .site-logo img {
   max-height: none !important;
-  height: 52px !important;
+  height: 72px !important;
   width: auto;
 }
 
@@ -30,6 +30,10 @@ $primary-color: #a699cc !default;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+}
+
+a {
+  color: #a699cc;
 }
 
 thead {
