@@ -31,9 +31,16 @@ permalink: /speaker-bios/
   font-weight: normal;
   font-size: 0.9em;
 }
+.gradient-heading {
+  display: inline-block;
+  background: linear-gradient(to right, #a699cc, #f0a090);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
 </style>
 
-## Keynote Speakers
+## <span class="gradient-heading">Keynote Speakers</span>
 
 <div class="speaker">
   <img src="/assets/images/speakers/jesse.jpg" alt="Jesse Jenkins"/>
@@ -50,3 +57,11 @@ permalink: /speaker-bios/
     <p>Bethany Frew is the Group Manager of the Capacity Expansion & Electricity Markets Group in the Grid Planning and Analysis Center at NLR, where she oversees a team of power system modelers focused on capacity expansion, resource adequacy, and wholesale electricity market design.</p>
   </div>
 </div>
+
+## <span class="gradient-heading">Panel 1: Industry Perspectives on Uncertainty in Capacity Expansion</span>
+
+Panelists coming soon.
+
+## <span class="gradient-heading">Panel 2: Methodological Challenges in Capacity Expansion</span>
+
+Panelists coming soon.

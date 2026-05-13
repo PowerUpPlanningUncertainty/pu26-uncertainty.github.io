@@ -9,6 +9,8 @@ repository: "pu26-uncertainty/pu26-uncertainty.github.io"
 
 favicon: "/favicon.ico"
 
+anchor_links: false
+
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "air"
 

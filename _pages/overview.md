@@ -28,9 +28,12 @@ permalink: /overview/
   font-size: 0.75em;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: #a699cc;
   font-weight: bold;
   margin-bottom: 0.3rem;
+  background: linear-gradient(to right, #a699cc, #f0a090);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 .paper-callout .paper-title {
   font-style: italic;
