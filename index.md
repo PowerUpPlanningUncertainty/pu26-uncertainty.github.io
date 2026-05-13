@@ -15,9 +15,7 @@ header:
 excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and practitioners to discuss uncertainty in energy infrastructure planning."
 ---
 
-Welcome to the workshop website for **Energy Infrastructure Planning under Uncertainty @ PowerUp 2026**.
-
-Use the navigation menu to access:
+Welcome to the **Energy Infrastructure Planning under Uncertainty Workshop** at **PowerUp 2026**.
 
 - [Overview](/overview/)
 - [Agenda](/agenda/)
