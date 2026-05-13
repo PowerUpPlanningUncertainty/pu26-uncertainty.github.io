@@ -73,14 +73,14 @@ excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and 
     <div class="nav-card-inner">
       <div class="nav-card-icon"><i class="fas fa-info-circle"></i></div>
       <div class="nav-card-title">Overview</div>
-      <div class="nav-card-desc">Workshop goals, motivation, and details</div>
+      <div class="nav-card-desc">Goals, motivation, and details</div>
     </div>
   </a>
   <a class="nav-card" href="/agenda/">
     <div class="nav-card-inner">
       <div class="nav-card-icon"><i class="fas fa-calendar-day"></i></div>
       <div class="nav-card-title">Agenda</div>
-      <div class="nav-card-desc">Full-day schedule of talks, panels, and roundtables</div>
+      <div class="nav-card-desc">Talks, panels, and interactive sessions</div>
     </div>
   </a>
   <a class="nav-card" href="/speaker-bios/">

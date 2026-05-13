@@ -126,6 +126,11 @@ thead th {
   display: none;
 }
 
+.greedy-nav .visible-links a {
+  padding: 0.5rem 0.6rem;
+  font-size: 0.85em;
+}
+
 .nav-card:hover {
   color: inherit !important;
   -webkit-text-fill-color: inherit;
