@@ -40,6 +40,8 @@ permalink: /speaker-bios/
 }
 </style>
 
+Thank you to our wonderful speakers! *Listed alphabetically by last name.*
+
 ## <span class="gradient-heading">Keynote Speakers</span>
 
 <div class="speaker">
@@ -65,3 +67,8 @@ Panelists coming soon.
 ## <span class="gradient-heading">Panel 2: Methodological Challenges</span>
 
 Panelists coming soon.
+
+
+## <span class="gradient-heading">Spotlights</span>
+
+Spotlight speakers coming soon.
