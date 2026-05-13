@@ -15,7 +15,7 @@ $primary-color: #a699cc !default;
 
 .site-logo img {
   max-height: none !important;
-  height: 3em !important;
+  height: 2.8em !important;
   width: auto;
 }
 
@@ -124,6 +124,11 @@ thead th {
 
 .header-link {
   display: none;
+}
+
+.nav-card:hover {
+  color: inherit !important;
+  -webkit-text-fill-color: inherit;
 }
 
 .site-subtitle {

@@ -15,11 +15,100 @@ header:
 excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and practitioners to discuss uncertainty in energy infrastructure planning."
 ---
 
-Welcome to the **Energy Infrastructure Planning under Uncertainty Workshop** at **PowerUp 2026**.
+<style>
+.nav-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1.25rem;
+  margin-top: 2rem;
+}
+.nav-card {
+  position: relative;
+  border-radius: 10px;
+  padding: 1px;
+  background: linear-gradient(135deg, #a699cc, #f0a090);
+  text-decoration: none !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.nav-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(166,153,204,0.3);
+}
+.nav-card-inner {
+  background: white;
+  border-radius: 9px;
+  padding: 1.25rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.6rem;
+  height: 100%;
+}
+.nav-card-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #a699cc, #f0a090);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 1.1em;
+}
+.nav-card-title {
+  font-weight: bold;
+  font-size: 0.95em;
+  color: #333;
+}
+.nav-card-desc {
+  font-size: 0.78em;
+  color: #666;
+  line-height: 1.4;
+}
+</style>
 
-- [Overview](/overview/)
-- [Agenda](/agenda/)
-- [Speakers](/speaker-bios/)
-- [Organizers](/organizer-bios/)
-- [Announcements](/announcements/)
-- [FAQs](/faqs/)
+<div class="nav-cards">
+  <a class="nav-card" href="/overview/">
+    <div class="nav-card-inner">
+      <div class="nav-card-icon"><i class="fas fa-info-circle"></i></div>
+      <div class="nav-card-title">Overview</div>
+      <div class="nav-card-desc">Workshop goals, motivation, and details</div>
+    </div>
+  </a>
+  <a class="nav-card" href="/agenda/">
+    <div class="nav-card-inner">
+      <div class="nav-card-icon"><i class="fas fa-calendar-day"></i></div>
+      <div class="nav-card-title">Agenda</div>
+      <div class="nav-card-desc">Full-day schedule of talks, panels, and roundtables</div>
+    </div>
+  </a>
+  <a class="nav-card" href="/speaker-bios/">
+    <div class="nav-card-inner">
+      <div class="nav-card-icon"><i class="fas fa-microphone"></i></div>
+      <div class="nav-card-title">Speakers</div>
+      <div class="nav-card-desc">Keynote speakers and panelists</div>
+    </div>
+  </a>
+  <a class="nav-card" href="/organizer-bios/">
+    <div class="nav-card-inner">
+      <div class="nav-card-icon"><i class="fas fa-users"></i></div>
+      <div class="nav-card-title">Organizers</div>
+      <div class="nav-card-desc">Meet the organizing team</div>
+    </div>
+  </a>
+  <a class="nav-card" href="/announcements/">
+    <div class="nav-card-inner">
+      <div class="nav-card-icon"><i class="fas fa-bullhorn"></i></div>
+      <div class="nav-card-title">Announcements</div>
+      <div class="nav-card-desc">Latest news and updates</div>
+    </div>
+  </a>
+  <a class="nav-card" href="/faqs/">
+    <div class="nav-card-inner">
+      <div class="nav-card-icon"><i class="fas fa-question-circle"></i></div>
+      <div class="nav-card-title">FAQs</div>
+      <div class="nav-card-desc">Frequently asked questions</div>
+    </div>
+  </a>
+</div>
