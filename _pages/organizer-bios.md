@@ -27,7 +27,7 @@ permalink: /organizer-bios/
 <div class="organizer">
   <img src="/assets/images/organizers/ana.webp" alt="Ana K. Rivera"/>
   <div class="organizer-info">
-    <h3>Ana K. Rivera <em>(MIT)</em></h3>
+    <h3><a href="https://www.linkedin.com/in/ana-k-rivera-him-4105a1137/" target="_blank">Ana K. Rivera</a> <em>(MIT)</em></h3>
     <p>PhD Student working on machine learning to accelerate power system optimization in planning and operation.</p>
   </div>
 </div>
@@ -35,7 +35,7 @@ permalink: /organizer-bios/
 <div class="organizer">
   <img src="/assets/images/organizers/lara.png" alt="Lara Booth"/>
   <div class="organizer-info">
-    <h3>Lara Booth <em>(MIT)</em></h3>
+    <h3><a href="https://www.linkedin.com/in/lcbooth/" target="_blank">Lara Booth</a> <em>(MIT)</em></h3>
     <p>PhD Student working on improved network realism and tractability in capacity and transmission expansion models.</p>
   </div>
 </div>
@@ -43,7 +43,7 @@ permalink: /organizer-bios/
 <div class="organizer">
   <img src="/assets/images/organizers/gabe.jpg" alt="Gabriel Mantegna"/>
   <div class="organizer-info">
-    <h3>Gabriel Mantegna <em>(Princeton)</em></h3>
+    <h3><a href="https://zero.lab.princeton.edu/mission-people/gabriel-mantegna/" target="_blank">Gabriel Mantegna</a> <em>(Princeton)</em></h3>
     <p>PhD Candidate studying methods for improving representations of uncertainty in capacity expansion modeling.</p>
   </div>
 </div>
@@ -51,7 +51,7 @@ permalink: /organizer-bios/
 <div class="organizer">
   <img src="/assets/images/organizers/rahman.png" alt="Rahman Khorramfar"/>
   <div class="organizer-info">
-    <h3>Rahman Khorramfar <em>(MIT)</em></h3>
+    <h3><a href="https://www.rahmankhorramfar.com/" target="_blank">Rahman Khorramfar</a> <em>(MIT)</em></h3>
     <p>Senior Postdoctoral Associate at MIT Energy Initiative working on resilient planning and optimization of energy systems to identify transition pathways and provide policy-relevant insights.</p>
   </div>
 </div>
@@ -59,7 +59,7 @@ permalink: /organizer-bios/
 <div class="organizer">
   <img src="/assets/images/organizers/aron.png" alt="Aron Brenner"/>
   <div class="organizer-info">
-    <h3>Aron Brenner <em>(MIT)</em></h3>
+    <h3><a href="https://www.aronbrenner.com/" target="_blank">Aron Brenner</a> <em>(MIT)</em></h3>
     <p>PhD candidate developing generative methods for stochastic optimization with applications in power system planning.</p>
   </div>
 </div>
@@ -67,7 +67,7 @@ permalink: /organizer-bios/
 <div class="organizer">
   <img src="/assets/images/organizers/ruaridh.jpeg" alt="Ruaridh Macdonald"/>
   <div class="organizer-info">
-    <h3>Ruaridh Macdonald <em>(MIT)</em></h3>
+    <h3><a href="https://energy.mit.edu/profile/ruaridh-macdonald/" target="_blank">Ruaridh Macdonald</a> <em>(MIT)</em></h3>
     <p>Research scientist at the MIT Energy Initiative working on planning optimization of multi-sectoral energy systems.</p>
   </div>
 </div>
@@ -75,7 +75,7 @@ permalink: /organizer-bios/
 <div class="organizer">
   <img src="/assets/images/organizers/saurabh.jpeg" alt="Saurabh Amin"/>
   <div class="organizer-info">
-    <h3>Saurabh Amin <em>(MIT)</em></h3>
+    <h3><a href="https://cee.mit.edu/people_individual/saurabh-amin/" target="_blank">Saurabh Amin</a> <em>(MIT)</em></h3>
     <p>Professor working on optimization, control, and game-theoretic methods for sustainable infrastructure, including energy systems.</p>
   </div>
 </div>
@@ -83,7 +83,7 @@ permalink: /organizer-bios/
 <div class="organizer">
   <img src="/assets/images/organizers/priya.jpeg" alt="Priya Donti"/>
   <div class="organizer-info">
-    <h3>Priya Donti <em>(MIT)</em></h3>
+    <h3><a href="https://priyadonti.com/" target="_blank">Priya Donti</a> <em>(MIT)</em></h3>
     <p>Assistant Professor working on physics-informed machine learning for power grid optimization, control, and planning.</p>
   </div>
 </div>
