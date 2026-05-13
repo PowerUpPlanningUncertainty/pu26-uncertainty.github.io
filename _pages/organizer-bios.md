@@ -23,27 +23,26 @@ permalink: /organizer-bios/
   margin-bottom: 0.25rem;
 }
 .organizer-email {
-  display: block;
-  margin-top: 0.4rem;
   font-family: monospace;
-  font-size: 0.75em;
+  font-size: 0.7em;
   background: none;
+  font-weight: normal;
 }
 </style>
 
 <div class="organizer">
   <img src="/assets/images/organizers/ana.webp" alt="Ana K. Rivera"/>
   <div class="organizer-info">
-    <h3><a href="https://www.linkedin.com/in/ana-k-rivera-him-4105a1137/" target="_blank">Ana K. Rivera</a> <em>(MIT)</em></h3>
-    <p>PhD Student working on machine learning to accelerate power system optimization in planning and operation.<a class="organizer-email" href="mailto:akrivera@mit.edu">akrivera at mit dot edu</a></p>
+    <h3><a href="https://www.linkedin.com/in/ana-k-rivera-him-4105a1137/" target="_blank">Ana K. Rivera</a> <em>(MIT)</em> <a class="organizer-email" href="mailto:akrivera@mit.edu">akrivera at mit dot edu</a></h3>
+    <p>PhD Student working on machine learning to accelerate power system optimization in planning and operation.</p>
   </div>
 </div>
 
 <div class="organizer">
   <img src="/assets/images/organizers/lara.png" alt="Lara Booth"/>
   <div class="organizer-info">
-    <h3><a href="https://www.linkedin.com/in/lcbooth/" target="_blank">Lara Booth</a> <em>(MIT)</em></h3>
-    <p>PhD Student working on improved network realism and tractability in capacity and transmission expansion models.<a class="organizer-email" href="mailto:lcbooth@mit.edu">lcbooth at mit dot edu</a></p>
+    <h3><a href="https://www.linkedin.com/in/lcbooth/" target="_blank">Lara Booth</a> <em>(MIT)</em> <a class="organizer-email" href="mailto:lcbooth@mit.edu">lcbooth at mit dot edu</a></h3>
+    <p>PhD Student working on improved network realism and tractability in capacity and transmission expansion models.</p>
   </div>
 </div>
 
