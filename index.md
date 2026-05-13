@@ -80,7 +80,7 @@ excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and 
     <div class="nav-card-inner">
       <div class="nav-card-icon"><i class="fas fa-calendar-day"></i></div>
       <div class="nav-card-title">Agenda</div>
-      <div class="nav-card-desc">Talks, panels, and interactive sessions</div>
+      <div class="nav-card-desc">Interactive sessions, panels, and talks</div>
     </div>
   </a>
   <a class="nav-card" href="/speaker-bios/">
