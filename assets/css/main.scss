@@ -9,7 +9,7 @@ $primary-color: #a699cc !default;
 
 .site-logo img {
   max-height: none !important;
-  height: 66px !important;
+  height: 62px !important;
   width: auto;
 }
 
@@ -32,12 +32,20 @@ $primary-color: #a699cc !default;
   background-clip: text;
 }
 
-a {
+a[href^="http"], a[href^="https"] {
   color: #a699cc;
 }
 
-a:visited {
+a[href^="http"]:visited, a[href^="https"]:visited {
   color: #f0a090;
+}
+
+.page__footer a {
+  color: white !important;
+}
+
+.page__footer a:visited {
+  color: white !important;
 }
 
 thead {
@@ -52,8 +60,6 @@ thead th {
 .site-subtitle {
   display: block;
   font-size: 0.85em;
-  background: linear-gradient(to right, #a699cc 35%, #f0a090);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: #444;
+  -webkit-text-fill-color: #444;
 }
