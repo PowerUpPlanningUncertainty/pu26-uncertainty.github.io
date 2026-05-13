@@ -31,6 +31,15 @@ $primary-color: #a699cc !default;
   background-clip: text;
 }
 
+thead {
+  background: linear-gradient(to right, #a699cc, #f0a090) !important;
+  color: white;
+}
+
+thead th {
+  color: white;
+}
+
 .site-subtitle {
   display: block;
   font-size: 0.85em;
