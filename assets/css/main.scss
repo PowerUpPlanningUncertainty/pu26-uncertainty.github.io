@@ -48,10 +48,8 @@ a[href^="http"]:visited, a[href^="https"]:visited {
   color: white !important;
 }
 
-table {
-  margin-left: auto !important;
-  margin-right: auto !important;
-  width: auto !important;
+td:first-child, th:first-child {
+  white-space: nowrap;
 }
 
 thead {
@@ -61,28 +59,25 @@ thead {
 
 thead th {
   color: white;
+  font-size: 1.1em;
 }
 
 .event-meta i {
   color: #a699cc;
 }
 
-.page__hero .page__hero--overlay p:last-child {
-  margin-top: 2rem;
-}
-
-.page__hero .btn {
-  background: rgba(255,255,255,0.15);
-  border: 1px solid rgba(255,255,255,0.5);
+.page__hero--overlay .btn--light-outline {
+  background: rgba(255,255,255,0.15) !important;
+  border: 1px solid rgba(255,255,255,0.5) !important;
   color: white !important;
-  font-size: 0.65em;
-  padding: 0.25em 0.65em;
-  border-radius: 20px;
+  font-size: 0.65em !important;
+  padding: 0.25em 0.65em !important;
+  border-radius: 20px !important;
   backdrop-filter: blur(4px);
   margin-top: 1.5rem;
 }
 
-.page__hero .btn:visited {
+.page__hero--overlay .btn--light-outline:visited {
   color: white !important;
 }
 
