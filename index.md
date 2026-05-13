@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: false
-title: "Energy Infrastructure Planning Under Uncertainty"
+title: "Uncertainty @ PowerUp 2026"
 header:
   overlay_image: /assets/images/flatirons-banner.jpg
   overlay_color: "#a699cc"
