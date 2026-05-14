@@ -50,7 +50,11 @@ permalink: /speaker-bios/
   }
 }
 .speaker-nav a {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 3.5rem;
   padding: 1.1rem 1rem;
   border: 2px solid #a699cc44;
   border-radius: 8px;
@@ -67,10 +71,7 @@ permalink: /speaker-bios/
   display: block;
   font-weight: 600;
   font-size: 1em;
-  background: linear-gradient(to right, #a699cc, #f0a090);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: #a699cc;
 }
 .speaker-nav .nav-sub {
   display: block;
