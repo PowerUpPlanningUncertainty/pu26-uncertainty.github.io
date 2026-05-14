@@ -38,11 +38,68 @@ permalink: /speaker-bios/
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
+.speaker-nav {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+@media (max-width: 600px) {
+  .speaker-nav {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.speaker-nav a {
+  display: block;
+  padding: 1.1rem 1rem;
+  border: 2px solid #a699cc44;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  background: linear-gradient(135deg, #a699cc11, #f0a09011);
+  transition: border-color 0.2s, background 0.2s;
+}
+.speaker-nav a:hover {
+  border-color: #a699cc;
+  background: linear-gradient(135deg, #a699cc22, #f0a09022);
+}
+.speaker-nav .nav-label {
+  display: block;
+  font-weight: 600;
+  font-size: 1em;
+  background: linear-gradient(to right, #a699cc, #f0a090);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.speaker-nav .nav-sub {
+  display: block;
+  font-size: 0.8em;
+  color: #888;
+  margin-top: 0.25rem;
+}
 </style>
 
 Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:italic; color:#888;">Listed alphabetically.</span>
 
-## <span class="gradient-heading">Keynote Speakers</span>
+<div class="speaker-nav">
+  <a href="#keynote-speakers">
+    <span class="nav-label">Keynote Speakers</span>
+  </a>
+  <a href="#panel-1-industry-perspectives">
+    <span class="nav-label">Panel 1</span>
+    <span class="nav-sub">Industry Perspectives</span>
+  </a>
+  <a href="#panel-2-methodological-challenges">
+    <span class="nav-label">Panel 2</span>
+    <span class="nav-sub">Methodological Challenges</span>
+  </a>
+  <a href="#spotlights">
+    <span class="nav-label">Spotlights</span>
+  </a>
+</div>
+
+## <span id="keynote-speakers" class="gradient-heading">Keynote Speakers</span>
 
 <div class="speaker">
   <img src="/assets/images/speakers/bethany.jpeg" alt="Bethany Frew"/>
@@ -61,7 +118,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 </div>
 
 
-## <span class="gradient-heading">Panel 1: Industry Perspectives</span>
+## <span id="panel-1-industry-perspectives" class="gradient-heading">Panel 1: Industry Perspectives</span>
 
 <div class="speaker">
   <img src="/assets/images/speakers/jacqueline_dowling.jpg" alt="Jacqueline Dowling"/>
@@ -73,7 +130,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 
 <p>Other panelists include Jesse Jenkins (Princeton University) and Bethany Frew (NLR).</p>
 
-## <span class="gradient-heading">Panel 2: Methodological Challenges</span>
+## <span id="panel-2-methodological-challenges" class="gradient-heading">Panel 2: Methodological Challenges</span>
 
 <div class="speaker">
   <img src="/assets/images/speakers/beste.jpeg" alt="Beste Basciftci"/>
@@ -88,6 +145,6 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 More panelists coming soon.
 
 
-## <span class="gradient-heading">Spotlights</span>
+## <span id="spotlights" class="gradient-heading">Spotlights</span>
 
 Spotlight speakers coming soon.
