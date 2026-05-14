@@ -33,9 +33,10 @@ permalink: /organizer-bios/
 }
 .organizer-email {
   font-family: monospace;
-  font-size: 0.7em;
+  font-size: 0.6em;
   background: none;
   font-weight: normal;
+  white-space: nowrap;
 }
 </style>
 
