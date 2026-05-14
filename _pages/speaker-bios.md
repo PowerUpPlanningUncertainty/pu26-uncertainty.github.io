@@ -48,7 +48,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   <img src="/assets/images/speakers/bethany.jpeg" alt="Bethany Frew"/>
   <div class="speaker-info">
     <h3><a href="https://research-hub.nlr.gov/en/persons/bethany-frew/" target="_blank">Bethany Frew</a> <em>(National Laboratory of the Rockies)</em></h3>
-    <p>Bethany Frew is the Group Manager of the Capacity Expansion & Electricity Markets Group in the Grid Planning and Analysis Center at NLR, where she oversees a team of power system modelers focused on capacity expansion, resource adequacy, and wholesale electricity market design.</p>
+    <p>Bethany Frew is a Senior Researcher and Group Manager of the Capacity Expansion & Electricity Markets Group at the National Laboratory of the Rockies (NLR), where she leads a team focused on capacity expansion, resource adequacy, and wholesale electricity market design.</p>
   </div>
 </div>
 
@@ -56,18 +56,36 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   <img src="/assets/images/speakers/jesse.jpg" alt="Jesse Jenkins"/>
   <div class="speaker-info">
     <h3><a href="https://zero.lab.princeton.edu/mission-people/jesse-jenkins/" target="_blank">Jesse Jenkins</a> <em>(Princeton University)</em></h3>
-    <p>Jesse D. Jenkins is an associate professor and macro-scale energy systems engineer at Princeton University with a joint appointment in the Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and Environment.</p>
+    <p>Jesse D. Jenkins is an Associate Professor at Princeton University in the Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and Environment. He leads the ZERO Lab, which focuses on improving and applying optimization-based energy systems models to evaluate low-carbon energy technologies and generate insights for energy and climate policy and planning.</p>
   </div>
 </div>
 
 
 ## <span class="gradient-heading">Panel 1: Industry Perspectives</span>
 
-Panelists coming soon.
+<div class="speaker">
+  <img src="/assets/images/speakers/jacqueline_dowling.jpg" alt="Jacqueline Dowling"/>
+  <div class="speaker-info">
+    <h3><a href="https://engineering.uiowa.edu/directory/jacqueline-dowling" target="_blank">Jacqueline Dowling</a> <em>(University of Iowa)</em></h3>
+    <p>Jacqueline Dowling is an Assistant Professor of Civil and Environmental Engineering at the University of Iowa. Her research analyzes natural resource constraints, guides technology innovation, and targets decarbonization solutions. Her work integrates weather data into macro-energy system models to inform reliable infrastructure planning and technology development.</p>
+  </div>
+</div>
+
+<p>Other panelists include Jesse Jenkins (Princeton University) and Bethany Frew (NLR).</p>
 
 ## <span class="gradient-heading">Panel 2: Methodological Challenges</span>
 
-Panelists coming soon.
+<div class="speaker">
+  <img src="/assets/images/speakers/beste.jpeg" alt="Beste Basciftci"/>
+  <div class="speaker-info">
+    <h3><a href="https://sites.google.com/view/bestebasciftci/home" target="_blank">Beste Basciftci</a>* <em>(University of Iowa)</em></h3>
+    <p>Beste Basciftci is an Assistant Professor in the Department of Business Analytics at the University of Iowa, with an additional affiliation to the Applied Mathematical and Computational Sciences program. Her research focuses on data-driven decision making under uncertainty, developing mixed-integer optimization, stochastic programming, and (distributionally) robust optimization approaches for energy systems, supply chains, and transportation.</p>
+  </div>
+</div>
+
+<p><em>* Participation tentatively confirmed.</em></p>
+
+More panelists coming soon.
 
 
 ## <span class="gradient-heading">Spotlights</span>
