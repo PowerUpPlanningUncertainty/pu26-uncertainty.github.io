@@ -5,12 +5,12 @@
 $primary-color: #a699cc !default;
 
 ::selection {
-  background: rgba(166, 153, 204, 0.25);
-  color: inherit;
+  background: rgba(166, 153, 204, 0.35) !important;
+  color: inherit !important;
 }
 ::-moz-selection {
-  background: rgba(166, 153, 204, 0.25);
-  color: inherit;
+  background: rgba(166, 153, 204, 0.35) !important;
+  color: inherit !important;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
