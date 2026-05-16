@@ -163,3 +163,92 @@ thead th {
   color: #444;
   -webkit-text-fill-color: #444;
 }
+
+// ── Dark mode ──────────────────────────────────────────────────────────────
+:root.dark-mode {
+  --dm-bg: #1a1520;
+  --dm-surface: #231d2e;
+  --dm-text: #ede9f7;
+  --dm-muted: #a699cc;
+  --dm-border: #3a3050;
+}
+
+.dark-mode {
+  background-color: var(--dm-bg) !important;
+  color: var(--dm-text) !important;
+
+  // Page body & layout
+  .page, .page__content, .layout--single, .initial-content,
+  .sidebar, .sidebar__right {
+    background-color: var(--dm-bg) !important;
+    color: var(--dm-text) !important;
+  }
+
+  // Masthead
+  .masthead {
+    background-color: var(--dm-surface) !important;
+    border-bottom: 1px solid var(--dm-border);
+  }
+  .greedy-nav {
+    background-color: var(--dm-surface) !important;
+  }
+  .greedy-nav .visible-links a,
+  .greedy-nav .hidden-links a {
+    color: var(--dm-text) !important;
+    &:hover { color: #a699cc !important; }
+  }
+  .site-subtitle { color: var(--dm-muted) !important; -webkit-text-fill-color: var(--dm-muted) !important; }
+
+  // Footer
+  .page__footer {
+    background-color: var(--dm-surface) !important;
+    color: var(--dm-muted) !important;
+  }
+
+  // Body text
+  p, li, td, th, h1, h2, h3, h4, h5, h6, blockquote {
+    color: var(--dm-text) !important;
+  }
+
+  // Links
+  a[href^="http"], a[href^="https"], a[href^="/"] {
+    color: #c4b8e8 !important;
+    &:hover { color: #f0a090 !important; }
+  }
+
+  // Nav cards on homepage
+  .nav-card-inner { background: var(--dm-surface) !important; }
+  .nav-card-title { color: var(--dm-text) !important; }
+  .nav-card-desc  { color: var(--dm-muted) !important; }
+
+  // Paper callout
+  .paper-callout {
+    background: var(--dm-surface) !important;
+    border-left-color: #a699cc;
+  }
+  .paper-callout .paper-date { color: var(--dm-muted) !important; }
+
+  // Speaker / organizer cards
+  .speaker-info, .organizer-info { color: var(--dm-text) !important; }
+  .speaker-nav a {
+    background: linear-gradient(135deg, rgba(166,153,204,0.08), rgba(240,160,144,0.08)) !important;
+    border-color: #3a3050 !important;
+    &:hover { border-color: #a699cc !important; }
+  }
+  .nav-sub { color: var(--dm-muted) !important; }
+
+  // Tables
+  table, td, th { border-color: var(--dm-border) !important; }
+  tbody tr { background-color: var(--dm-bg) !important; color: var(--dm-text) !important; }
+  tbody tr:nth-child(even) { background-color: var(--dm-surface) !important; }
+
+  // Hero banner — swap to night image
+  .page__hero--overlay {
+    background-image: url('/assets/images/flatirons-banner-night.png') !important;
+  }
+
+  // Logo cursor hint
+  #dark-mode-toggle { cursor: pointer; }
+}
+
+#dark-mode-toggle { cursor: pointer; }
