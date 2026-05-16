@@ -5,8 +5,7 @@ title: "Energy Infrastructure <br>Planning Under Uncertainty"
 seo_title: "Uncertainty @ PowerUp 2026"
 header:
   overlay_image: /assets/images/flatirons-banner.jpg
-  overlay_color: "#a699cc"
-  overlay_filter: 0.35
+  overlay_filter: "rgba(166, 153, 204, 0.35)"
   actions:
     - label: "<i class='fas fa-calendar-alt'></i> September 11, 2026"
       url: "https://power-up.us/program"
