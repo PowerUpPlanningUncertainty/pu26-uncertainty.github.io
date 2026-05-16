@@ -4,6 +4,15 @@
 
 $primary-color: #a699cc !default;
 
+::selection {
+  background: rgba(166, 153, 204, 0.25);
+  color: inherit;
+}
+::-moz-selection {
+  background: rgba(166, 153, 204, 0.25);
+  color: inherit;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
