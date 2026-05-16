@@ -221,6 +221,12 @@ thead th {
   .nav-card-title { color: var(--dm-text) !important; }
   .nav-card-desc  { color: var(--dm-muted) !important; }
 
+  // Overview page info cards
+  .info-card-inner {
+    background: var(--dm-surface) !important;
+    color: var(--dm-text) !important;
+  }
+
   // Paper callout
   .paper-callout {
     background: var(--dm-surface) !important;
