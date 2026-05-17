@@ -195,11 +195,13 @@ thead th {
   .greedy-nav {
     background-color: var(--dm-surface) !important;
   }
-  .greedy-nav .hidden-links {
+  .greedy-nav .hidden-links,
+  .greedy-nav .hidden-links.hidden {
     background: var(--dm-surface) !important;
     border-color: var(--dm-border) !important;
     a { color: var(--dm-text) !important; }
     a:hover { color: var(--dm-purple) !important; }
+    &::before { border-bottom-color: var(--dm-border) !important; }
   }
   .greedy-nav__toggle {
     color: var(--dm-text) !important;
@@ -213,6 +215,7 @@ thead th {
   .greedy-nav .hidden-links a {
     color: var(--dm-text) !important;
     &:hover { color: var(--dm-purple) !important; }
+    &:before { background: var(--dm-coral) !important; }
   }
   .site-subtitle { color: var(--dm-text) !important; -webkit-text-fill-color: var(--dm-text) !important; }
 
@@ -220,8 +223,10 @@ thead th {
   .page__footer {
     background-color: var(--dm-purple) !important;
     color: white !important;
-    * { color: white !important; }
-    a { color: white !important; }
+    *, a, a:hover, a:visited,
+    a[href^="http"], a[href^="https"], a[href^="/"] {
+      color: white !important;
+    }
   }
 
   // Body text
@@ -280,7 +285,9 @@ thead th {
     background: var(--dm-surface) !important;
     border-left-color: var(--dm-purple) !important;
   }
-  .paper-callout .paper-date { color: var(--dm-muted) !important; }
+  .paper-callout .paper-date { color: #b0aac0 !important; }
+  .paper-callout .paper-title { color: #b0aac0 !important; }
+  [style*="color:#666"] { color: #b0aac0 !important; }
   .paper-callout .paper-label {
     background: linear-gradient(to right, var(--dm-purple), var(--dm-coral)) !important;
     -webkit-background-clip: text !important;
