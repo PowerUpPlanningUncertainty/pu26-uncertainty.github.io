@@ -323,3 +323,7 @@ thead th {
 }
 
 #dark-mode-toggle { cursor: pointer; }
+
+html.dark-mode .greedy-nav .hidden-links {
+  background: #231d2e !important;
+}
