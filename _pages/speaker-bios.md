@@ -38,6 +38,7 @@ permalink: /speaker-bios/
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
+
 .speaker-nav {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
