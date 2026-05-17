@@ -61,12 +61,21 @@
     if (logoImg) logoImg.src = url;
   }
 
+  // Injected style tag to force hidden-links dropdown dark (beats theme specificity)
+  var dmStyle = document.createElement('style');
+  dmStyle.id = 'pu26-dm-override';
+  dmStyle.textContent = 'nav.greedy-nav .hidden-links { background: #231d2e !important; color: #ede9f7 !important; } nav.greedy-nav .hidden-links a { color: #ede9f7 !important; }';
+  document.head.appendChild(dmStyle);
+  dmStyle.disabled = true;
+
   function applyDark() {
     document.documentElement.classList.add('dark-mode');
+    dmStyle.disabled = false;
     setIcons(true);
   }
   function applyLight() {
     document.documentElement.classList.remove('dark-mode');
+    dmStyle.disabled = true;
     setIcons(false);
   }
 
