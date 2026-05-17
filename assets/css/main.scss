@@ -175,7 +175,8 @@ thead th {
   --dm-coral: #ed88a1;
 }
 
-.dark-mode {
+.dark-mode,
+.dark-mode body {
   background-color: var(--dm-bg) !important;
   color: var(--dm-text) !important;
 
@@ -221,10 +222,10 @@ thead th {
     color: var(--dm-text) !important;
   }
 
-  // Links
+  // Links — pink base, purple on hover
   a[href^="http"], a[href^="https"], a[href^="/"] {
-    color: #c4b8e8 !important;
-    &:hover { color: var(--dm-coral) !important; }
+    color: var(--dm-coral) !important;
+    &:hover { color: var(--dm-purple) !important; }
   }
 
   // Gradient headings
