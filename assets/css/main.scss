@@ -204,6 +204,11 @@ thead th {
   .greedy-nav__toggle {
     color: var(--dm-text) !important;
   }
+  .navicon,
+  .navicon::before,
+  .navicon::after {
+    background: var(--dm-coral) !important;
+  }
   .greedy-nav .visible-links a,
   .greedy-nav .hidden-links a {
     color: var(--dm-text) !important;
